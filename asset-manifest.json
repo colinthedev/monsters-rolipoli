@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/monsters-rolipoli/static/css/main.dcadc516.chunk.css",
+    "main.js": "/monsters-rolipoli/static/js/main.a10c8379.chunk.js",
+    "main.js.map": "/monsters-rolipoli/static/js/main.a10c8379.chunk.js.map",
+    "runtime-main.js": "/monsters-rolipoli/static/js/runtime-main.a14cce5e.js",
+    "runtime-main.js.map": "/monsters-rolipoli/static/js/runtime-main.a14cce5e.js.map",
+    "static/js/2.86a71330.chunk.js": "/monsters-rolipoli/static/js/2.86a71330.chunk.js",
+    "static/js/2.86a71330.chunk.js.map": "/monsters-rolipoli/static/js/2.86a71330.chunk.js.map",
+    "static/js/3.e133155a.chunk.js": "/monsters-rolipoli/static/js/3.e133155a.chunk.js",
+    "static/js/3.e133155a.chunk.js.map": "/monsters-rolipoli/static/js/3.e133155a.chunk.js.map",
+    "index.html": "/monsters-rolipoli/index.html",
+    "static/css/main.dcadc516.chunk.css.map": "/monsters-rolipoli/static/css/main.dcadc516.chunk.css.map",
+    "static/js/2.86a71330.chunk.js.LICENSE.txt": "/monsters-rolipoli/static/js/2.86a71330.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a14cce5e.js",
+    "static/js/2.86a71330.chunk.js",
+    "static/css/main.dcadc516.chunk.css",
+    "static/js/main.a10c8379.chunk.js"
+  ]
+}
